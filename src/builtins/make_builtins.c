@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   make_builtins.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: leoferre <leoferre@student.42sp.org.br>    +#+  +:+       +#+        */
+/*   By: macarval <macarval@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/15 14:33:18 by macarval          #+#    #+#             */
-/*   Updated: 2023/10/29 02:28:40 by leoferre         ###   ########.fr       */
+/*   Updated: 2023/10/29 15:10:24 by macarval         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

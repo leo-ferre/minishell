@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   execute.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: leoferre <leoferre@student.42sp.org.br>    +#+  +:+       +#+        */
+/*   By: macarval <macarval@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/20 11:05:04 by macarval          #+#    #+#             */
-/*   Updated: 2023/10/29 02:36:35 by leoferre         ###   ########.fr       */
+/*   Updated: 2023/10/29 15:16:00 by macarval         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,6 @@
 #include "../../headers/signals.h"
 #include "../../headers/pipes.h"
 #include "../../headers/minishell.h"
-
 #include <sys/wait.h>
 
 static void	execute_with_child(t_cmd_table *cmd_table, int cmd_i)
